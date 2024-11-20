@@ -5,6 +5,9 @@ The growing volume of data in used car auctions provides a significant opportuni
 
 # Dataset Introduction
 
+![image](https://github.com/user-attachments/assets/7e218598-6418-4eb1-b315-2921957ee67f)
+
+
 The **Used Car Auction Prices** dataset, curated by Kaggle user **tunguz**, serves as a comprehensive resource for analyzing pricing trends in the used car auction market. It is particularly relevant for researchers, data scientists, and practitioners in the fields of automotive research, economics, and machine learning.
 
 ## Overview and Structure
