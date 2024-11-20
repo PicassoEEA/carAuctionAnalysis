@@ -1,16 +1,18 @@
 # Car Auction Analysis
 
+## Proposal
+
 The growing volume of data in used car auctions provides a significant opportunity to analyze and predict vehicle pricing trends. This research aims to leverage the publicly available dataset from Kaggle, titled "Used Car Auction Prices," to analyze auction prices and identify factors influencing vehicle valuation. Employing statistical analysis and machine learning techniques, the project will study the relationships between different indicators of cars to explore the underlying factors affecting auction prices and provide data analysis support for subsequent price prediction efforts.
 
 
-# Dataset Introduction
+## Dataset Introduction
 
 ![image](https://github.com/user-attachments/assets/7e218598-6418-4eb1-b315-2921957ee67f)
 
 
 The **Used Car Auction Prices** dataset, curated by Kaggle user **tunguz**, serves as a comprehensive resource for analyzing pricing trends in the used car auction market. It is particularly relevant for researchers, data scientists, and practitioners in the fields of automotive research, economics, and machine learning.
 
-## Overview and Structure
+### Overview and Structure
 
 This dataset provides extensive information on used cars sold at auctions, including key attributes such as make, model, manufacturing year, mileage, and additional specifications. It also includes the final auction price, which can be used as a target variable for predictive modeling tasks.
 
