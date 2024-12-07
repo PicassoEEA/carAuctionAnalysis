@@ -1,5 +1,22 @@
 # Car Auction Analysis
 
+# Reproducing the results
+## File Structure
+- `final_submission.ipynb`: The main file to reproduce the results.
+- `model.py`: The file containing the neural network models.
+- `dswrap.py`: The file containing the dataset wrapper for PyTorch dataset.
+
+## How to run the code
+Open the `final_submission.ipynb` file and run all the cells (or restart the kernel and run all cells).
+
+## External Packages
+- `torch`
+- `pandas`
+- `numpy`
+- `seaborn`
+- `matplotlib`
+- `sklearn`
+
 ## Proposal
 
 The growing volume of data in used car auctions provides a significant opportunity to analyze and predict vehicle pricing trends. This research aims to leverage the publicly available dataset from Kaggle, titled "Used Car Auction Prices," to analyze auction prices and identify factors influencing vehicle valuation. Employing statistical analysis and machine learning techniques, the project will study the relationships between different indicators of cars to explore the underlying factors affecting auction prices and provide data analysis support for subsequent price prediction efforts.
